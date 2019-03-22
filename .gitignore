@@ -24,7 +24,7 @@ DerivedData
 # Android/IJ
 #
 build/
-build/Pods
+ios/Pods
 .idea
 *.gradle
 local.properties
